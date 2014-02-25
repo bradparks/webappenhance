@@ -2,6 +2,8 @@
 
 Utility library for Java web applications
 
+### Note: more info about this here:
+http://stackoverflow.com/a/11439311/26510
 
 ## Add library to your project
 
