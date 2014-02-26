@@ -1,9 +1,9 @@
-# Java Web Application Enhancements Library
-
-Utility library for Java web applications
-
-### Note: more info about this here:
+# More info about this library at this blog post here:
 http://stackoverflow.com/a/11439311/26510
+
+Note this is an EL Resolver, not an ESAPI library (ESAPI put here for searchability)
+
+# Java Web Application Enhancements Library
 
 ## Add library to your project
 
